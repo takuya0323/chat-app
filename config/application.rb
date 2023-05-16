@@ -18,7 +18,7 @@ module ChatApp
     config.generators do |g|
       g.stylesheets false
       g.jabascripts false
-      g.helper galse
+      g.helper false
       g.test_framework false
     end
   end
